@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding-left: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #171F4E;
+}
+
+h1 {
+    color: white;
+
+    display: flex;
+    justify-content: center;
+
+    margin-top: 30px;
+}
+
+h2 {
+    color: white;
+
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+}
+
+.foto img {
+    height: 300px;
+    width: 300px;
+
+    border-radius: 200px;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 30px;
+}
+
+.container-grid {
+    max-width: 1400px;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.apresentacao h2 {
+    margin-top: 50px;
+
+    font-size: 36px;
+}
+
+div p {
+    text-align: center;
+    color: white;
+
+    margin-top: 30px;
+    font-size: 30px;
+
+    margin: 20px;
+}
+
+.objetivos h2 {
+    margin-top: 50px;
+    font-size: 36px;
+}
+
+.ferramentas h2 {
+    margin-top: 50px;
+    font-size: 36px;
+}
+
+.ferramentas img {
+    margin-top: 40px;
+
+    height: 100px;
+    width: 100px;
+
+}
